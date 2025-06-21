@@ -1,3 +1,9 @@
+"""A dead simple logging and debugging library.
+
+This library is written in pure python. Feel free to use your IDE to jump to
+and read the source code!
+"""
+
 import os
 from collections.abc import Callable
 
