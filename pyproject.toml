@@ -1,6 +1,6 @@
 [project]
 name = "saffron-debug"
-version = "1.0.0"
+version = "1.0.1"
 description = "A dead simple logging and debugging library."
 readme = "README.md"
 authors = [
